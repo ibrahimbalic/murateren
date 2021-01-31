@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s_13951.jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\s_13951.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IBKY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>282</ymin>
+			<xmax>382</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

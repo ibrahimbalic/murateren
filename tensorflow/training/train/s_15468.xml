@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s_15468.jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\s_15468.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YPJ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>178</ymin>
+			<xmax>484</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

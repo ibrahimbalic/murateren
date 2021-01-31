@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>EK2 (20).jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\EK2 (20).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HDP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>263</ymin>
+			<xmax>614</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HDP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymin>441</ymin>
+			<xmax>608</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HDP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>249</ymin>
+			<xmax>475</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

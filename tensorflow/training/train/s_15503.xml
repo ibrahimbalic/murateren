@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s_15503.jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\s_15503.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HDP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>207</ymin>
+			<xmax>438</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

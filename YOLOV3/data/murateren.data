@@ -1,0 +1,5 @@
+classes= 23
+train  = /darknet/murateren/train.txt
+valid  = /darknet/murateren/test.txt
+names = /darknet/murateren/murateren.names
+backup = /darknet/murateren/weights/

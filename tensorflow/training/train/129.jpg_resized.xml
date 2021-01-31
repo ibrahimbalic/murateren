@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>129.jpg_resized.jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\129.jpg_resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>APO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>207</ymin>
+			<xmax>402</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

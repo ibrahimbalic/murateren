@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s_18648.jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\s_18648.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HDP</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>154</ymin>
+			<xmax>640</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

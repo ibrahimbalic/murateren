@@ -1,0 +1,56 @@
+item {
+  id: 1
+  name: 'APO'
+}
+item {
+  id: 2
+  name: 'HDP'
+}
+item {
+  id: 3
+  name: 'PKK'
+}
+item {
+  id: 4
+  name: 'KCK'
+}
+item {
+  id: 5
+  name: 'YPG'
+}
+item {
+  id: 6
+  name: 'YPJ'
+}
+item {
+  id: 7
+  name: 'PYD'
+}
+item {
+  id: 8
+  name: 'PJAK'
+}
+item {
+  id: 9
+  name: 'MLKP'
+}
+item {
+  id: 10
+  name: 'DHKPC'
+}
+item {
+  id: 11
+  name: 'IBKY'
+}
+item {
+  id: 12
+  name: 'ZI'
+}
+item {
+  id: 13
+  name: 'AK47'
+}
+item {
+  id: 14
+  name: 'SILAH'
+}

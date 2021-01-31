@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s_13894.jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\s_13894.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AK47</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>186</ymin>
+			<xmax>630</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

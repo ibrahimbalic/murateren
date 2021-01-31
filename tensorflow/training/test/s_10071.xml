@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s_10071.jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\s_10071.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>YPG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>141</ymin>
+			<xmax>418</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

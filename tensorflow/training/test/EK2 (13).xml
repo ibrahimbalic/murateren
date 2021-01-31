@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>EK2 (13).jpg</filename>
+	<path>C:\Users\lab\Desktop\MuratEren\obj\v3\images_640\images\EK2 (13).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MLKP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>183</ymin>
+			<xmax>628</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
